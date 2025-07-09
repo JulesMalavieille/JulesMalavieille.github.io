@@ -8,7 +8,7 @@ permalink: pages/cv/
 # Formation 
 
 ## Master's Degree in Biological Oceanography and Marine Ecology
-Specialitypecialization : Functions and Dynamics of Ecosystems
+Specialization : Functions and Dynamics of Ecosystems
 Aix-Marseille University, OSU pythéas institute
 2024-2026
 
@@ -17,11 +17,11 @@ I gain expertise in :
   - Mechanistic modelling dynamics of classic, chaotic and complex systems
   - Differential equations of all types (ordinary, stochastical or partial derivates)
   - Game theory
-  - Advanced data analysis (ACP, AFCM, ANMS, CAH, Fourrier transforms)
+  - Advanced data analysis (ACP, AFCM, ANMS, CAH, Fourrier transforms, etc...)
   - Machine and Deep learning 
 
 ## Bachelor's Degree in Marine Sciences
-Specializations : Mathematics and Computer Science 
+Specialization : Mathematics and Computer Science 
 Aix-Marseille University
 2021-2024, Major of promotion
 
@@ -37,7 +37,7 @@ I studied :
 Chevreul Lestonnac, Lyon, France
 2021, Graduated with Honours
 
-Sepcialized courses :
+Sepcialization :
   - Mathematics
   - Biology
   - Physics and Chemistry
