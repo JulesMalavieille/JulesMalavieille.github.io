@@ -1,5 +1,3 @@
 main:
-  - title: "Accueil"
-    url: /
   - title: "Curriculum vitae"
     url: /cv/
