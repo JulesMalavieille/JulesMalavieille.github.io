@@ -22,3 +22,7 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
+header_pages:
+  - index.md
+  - pages/cv.md
