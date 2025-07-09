@@ -1,11 +1,7 @@
 ---
-layout: default
-title: Portfolio de Jules Malavieille
+layout: home
+author_profile: true
+title: "Accueil"
 ---
 
-# Bienvenue sur mon portfolio
-
-Je suis étudiant en modélisation mathématique appliquée à l'écologie marine.
-
-[Voir mon GitHub](https://github.com/JulesMalavieille)
-
+Bienvenue sur mon portfolio en modélisation mathématique appliquée à l’écologie marine.
