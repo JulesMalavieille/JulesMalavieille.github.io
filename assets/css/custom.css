@@ -1,8 +1,7 @@
 .nav__items a,
 .nav__items a:visited {
   color: white !important;
+  font-weight: bold !important;
+  font-weight: bold !important;
 }
 
-.nav__items {
-  justify-content: flex-start !important;
-}
