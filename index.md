@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 title: "Accueil"
 ---
-[CV](/cv/)
+[Curriculum vitae](/cv/)
 
 Bienvenue sur mon portfolio. 
 Je présente ici mon travail et mes projets. 
