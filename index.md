@@ -4,12 +4,13 @@ author_profile: true
 title: "Accueil"
 show_excerpts: false
 entries_layout: none
+paginate: false
 ---
 [Curriculum vitae](pages/cv/) 
 
 <figure class="half">
   <img src="assets/photo.png" alt="Jules Malavieille" style="width:30%">
-  <figcaption style="font-size: 1.3em; font-weight: bold;>Jules Malavieille</figcaption>
+  <figcaption style="font-size: 1.3em; font-weight: bold;">Jules Malavieille</figcaption>
 </figure>
 
 I am currently in the final year of a Master’s degree in Biological Oceanography and Marine Ecology at Aix-Marseille University, with a specialization in mathematical modelling and data analysis.
