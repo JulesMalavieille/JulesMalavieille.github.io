@@ -13,6 +13,7 @@ Aix-Marseille University, OSU pythéas institute,
 2024-2026
 
 This degree places strong emphasis on the dynamics of ecosystems, which requires advanced mathematical modelling and data analysis skills
+
 I gained expertise in : 
   - Mechanistic modelling of dynamic, chaotic and complex systems
   - Differential equations : ordinary, stochastic and partial 
@@ -26,6 +27,7 @@ Aix-Marseille University,
 2021-2024, Ranked first in class
 
 This program provide a strong interdisciplinary foundation across both formal and natural sciences
+
 I studied : 
   - Mathematics (linear algebra, differential systems, calculus)
   - Statistics (Bayesian statistics, hypothesis testing, descriptive statistics)
