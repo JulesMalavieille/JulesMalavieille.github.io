@@ -10,6 +10,10 @@ title: "Accueil"
   <figcaption>Jules Malavieille</figcaption>
 </figure>
 
-Student in biological oceanography and marine ecology, specialized in modelisation and data analysis 
+I am currently in the final year of a Master’s degree in Biological Oceanography and Marine Ecology at Aix-Marseille University, with a specialization in mathematical modelling and data analysis.
+
+This site is a portfolio showcasing a selection of academic work and personal projects at the intersection of ecology, mathematics and computer science.
+
+My interests span several fields, including bifurcation theory, chaos theory, stochastic modelling, and machine learning. I enjoy applying rigorous mathematics to real-world problems, building tools, and exploring complex system dynamics. My goal is to design rigorous models that help understand, anticipate or reproduce all types of dynamics.
 
 
