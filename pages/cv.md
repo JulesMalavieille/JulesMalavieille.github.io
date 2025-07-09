@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Curriculum vitae"
-permalink: /cv/
+permalink: pages/cv/
 ---
 
 # Formation 
