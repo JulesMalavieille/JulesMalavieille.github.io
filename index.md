@@ -1,8 +1,7 @@
 ---
-layout: home
-author_profile: true
+layout: splash
 title: "Accueil"
-entries_layout: none
+author_profile: true
 ---
 [Curriculum vitae](pages/cv/) 
 
