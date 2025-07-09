@@ -6,7 +6,7 @@ author_profile: true
 [Curriculum vitae](pages/cv/) 
 
 <figure class="half">
-  <img src="assets/photo.png" alt="Jules Malavieille" style="width:30%">
+  <img src="assets/photo.png" alt="Jules Malavieille" style="width:20%">
   <figcaption style="font-size: 1.3em; font-weight: bold;">Jules Malavieille</figcaption>
 </figure>
 
