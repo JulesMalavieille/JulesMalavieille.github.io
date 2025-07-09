@@ -9,6 +9,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
+include:
+  - _includes
+
 markdown: kramdown
 kramdown:
   input: GFM
