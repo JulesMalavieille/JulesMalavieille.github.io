@@ -2,9 +2,7 @@
 layout: home
 author_profile: true
 title: "Accueil"
-show_excerpts: false
 entries_layout: none
-paginate: false
 ---
 [Curriculum vitae](pages/cv/) 
 
