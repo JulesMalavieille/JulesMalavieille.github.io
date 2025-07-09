@@ -5,7 +5,10 @@ title: "Accueil"
 ---
 [Curriculum vitae](pages/cv/) 
 
-{% include figure image_path="/assets/photo.png" alt="Ma photo" caption="Jules Malavieille" width="1%" %}
+<figure class="half">
+  <img src="assets/photo.png" alt="Jules Malavieille" style="width:20%">
+  <figcaption style="text-align:center;">Jules Malavieille</figcaption>
+</figure>
 
 Student in biological oceanography and marine ecology
 Specialized in modelisation and data analysis 
