@@ -3,7 +3,7 @@ layout: home
 author_profile: true
 title: "Accueil"
 ---
-[Curriculum vitae](/cv/) 
+[Curriculum vitae](pages/cv/) 
 
 {% include figure image_path="assets/photo.jpg" alt="Ma photo" caption="Jules Malavieille" width="60%" %}
 
