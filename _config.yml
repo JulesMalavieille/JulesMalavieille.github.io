@@ -9,8 +9,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-include-cache
 
-include:
-  - _includes
+navigation:
+  enabled: true
 
 markdown: kramdown
 kramdown:
@@ -26,3 +26,6 @@ collections:
 header_pages:
   - index.md
   - pages/cv.md
+
+sass:
+  custom: "assets/css/custom.css"
