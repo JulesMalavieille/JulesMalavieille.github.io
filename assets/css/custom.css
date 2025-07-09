@@ -2,3 +2,7 @@
 .nav__items a:visited {
   color: white !important;
 }
+
+.nav__items {
+  justify-content: flex-start !important;
+}
