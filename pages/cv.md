@@ -8,36 +8,36 @@ permalink: pages/cv/
 # Formation 
 
 ## Master's Degree in Biological Oceanography and Marine Ecology
-Specialization : Functions and Dynamics of Ecosystems
-Aix-Marseille University, OSU pythéas institute
+Specialization : Functions and Dynamics of Ecosystems,
+Aix-Marseille University, OSU pythéas institute,
 2024-2026
 
-This degree places strong emphasis on dynamics of ecosystems, which strongly needs modelisation and data analysis
-I gain expertise in : 
-  - Mechanistic modelling dynamics of classic, chaotic and complex systems
-  - Differential equations of all types (ordinary, stochastical or partial derivates)
+This degree places strong emphasis on the dynamics of ecosystems, which requires advanced mathematical modelling and data analysis skills
+I gained expertise in : 
+  - Mechanistic modelling of dynamic, chaotic and complex systems
+  - Differential equations : ordinary, stochastic and partial 
   - Game theory
-  - Advanced data analysis (ACP, AFCM, ANMS, CAH, Fourrier transforms, etc...)
-  - Machine and Deep learning 
+  - Advanced data analysis (PCA, FAMD, ANMS, Clustering, Fourier transforms, etc...)
+  - Machine learning and Deep learning 
 
 ## Bachelor's Degree in Marine Sciences
-Specialization : Mathematics and Computer Science 
-Aix-Marseille University
-2021-2024, Major of promotion
+Specialization : Mathematics and Computer Sciences, 
+Aix-Marseille University,
+2021-2024, Ranked first in class
 
-In this programm, I gained a solid interdisciplinarity foundation in both formal and natural sciences
+This program provide a strong interdisciplinary foundation across both formal and natural sciences
 I studied : 
-  - Mathematics (linear algebra, differential systems, dalculus)
-  - Statistics (bayesian statistics, testing hypothesis, Basic statistic metrics)
-  - Computer Sciences (Python, numerical methods, Fortran, Latex)
+  - Mathematics (linear algebra, differential systems, calculus)
+  - Statistics (Bayesian statistics, hypothesis testing, descriptive statistics)
+  - Computer Sciences (Python, numerical methods, Fortran, LaTeX)
   - Ecology
-  - Basis of Oceanography (Biology, Chemistry and Physics)
+  - Fundamentals of Oceanography (Biology, Chemistry and Physics)
 
-## French Baccalaureat (High school Diploma)
-Chevreul Lestonnac, Lyon, France
+## French Baccalauréat (High school Diploma)
+Chevreul Lestonnac, Lyon, France,
 2021, Graduated with Honours
 
-Sepcialization :
+Specialization :
   - Mathematics
   - Biology
   - Physics and Chemistry
