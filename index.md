@@ -3,7 +3,6 @@ layout: home
 title: "Accueil"
 author_profile: true
 ---
-[Curriculum vitae](pages/cv/) 
 
 <figure class="half">
   <img src="assets/photo.png" alt="Jules Malavieille" style="width:20%">
