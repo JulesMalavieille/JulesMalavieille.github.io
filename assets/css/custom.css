@@ -1,0 +1,4 @@
+.nav__items a,
+.nav__items a:visited {
+  color: white !important;
+}
