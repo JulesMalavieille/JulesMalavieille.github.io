@@ -2,7 +2,7 @@ title: "Jules Malavieille"
 description: "Modélisation mathématique en environnement marin"
 url: "https://julesmalavieille.github.io"
 baseurl: ""
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
