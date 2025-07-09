@@ -1,10 +1,8 @@
 ---
 layout: single
-title: "CV"
+title: "Curriculum vitae"
 permalink: /cv/
 ---
-
-# Curriculum vitae
 
 # Formation 
 ## Master's degree in biological oceanography and marine ecology, specialitypecialization functions and dynamics of ecosystems
