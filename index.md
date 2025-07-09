@@ -5,7 +5,7 @@ title: "Accueil"
 ---
 [Curriculum vitae](/cv/) 
 
-Bienvenue sur mon portfolio. 
-Je présente ici mon travail et mes projets. 
+[Jules Malavieille](assets/photo.png)
 
-Je suis actuellement étudiant en océanographie, orienté en modélisation et analyse de données. 
+Student in biological oceanography and marine ecology
+Specialized in modelisation and data analysis 
