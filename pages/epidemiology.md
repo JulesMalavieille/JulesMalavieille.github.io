@@ -10,14 +10,9 @@ The objective was to understand how **zooplancton grazing** affects the **viral 
 To explore this we build a **system of differential equation** describing the interactions between healthy phytoplancton, infected phytoplankton and zooplancton : 
 
 \[
-\text{(dP/dt = aP - c/L*PF - bPZ)}
-\]
-\[
-\text{(dF/dt = c/L*PF - 1/L*F - bFZ)}
-\]
-\[
-\text{(dZ/dt =b(P+F)Z - mZ^2)}
+\text{(dP/dt = aP - c/L*PF - bPZ), (dF/dt = c/L*PF - 1/L*F - bFZ), (dZ/dt =b(P+F)Z - mZ^2)}
 \]
 
+By analyzing the **equilibria and stability** of the model, we found that zoopkancton grazing significantly reduces the number of infected phytoplankton. This led to fewer infectious cells in the environement. Thus **lowering the infection pressure** on the phytoplankton population.
 
-We deduce from the equilibrium and stability of the system that the grazing of pjytoplancton by zooplancton was reducing the amount of infected cells and so the number of viruses reinjected in the system. This reduces the infection of phytoplancton. So by eating the phytoplancton, zooplancton reduce the infection of phytoplancton
+In other words, by consuming phytoplankton, zooplankton indirectly helped to limit the spread of phytoplanktonic viral infection. This result highlights the importance of trophic intercations in the control of ecological diseases.
