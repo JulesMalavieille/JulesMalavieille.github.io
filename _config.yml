@@ -32,4 +32,4 @@ sass:
   custom: "assets/css/custom.css"
 
 head_scripts:
-  - _includes/head-custom.html
+  - head-custom.html
