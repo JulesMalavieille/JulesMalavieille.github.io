@@ -29,4 +29,4 @@ In other words, by consuming phytoplankton, zooplankton indirectly helped to lim
 
 Download the full report : <a href="/assets/epidemiological_model.pdf" class="btn btn--primary" target="_blank">📥 Download the full report</a>
 
-See the code on the Github page of the project : <a href="https://github.com/JulesMalavieille/Epidemiological_modelling" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
+See the code on the Github page of the project : <a href="https://github.com/JulesMalavieille/Epidemiological-modelling" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
