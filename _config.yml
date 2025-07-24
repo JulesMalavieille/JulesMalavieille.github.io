@@ -31,5 +31,3 @@ header_pages:
 sass:
   custom: "assets/css/custom.css"
 
-head_scripts:
-  - head-custom.html
