@@ -9,13 +9,13 @@ The objective was to understand how **zooplancton grazing** affects the **viral 
 
 To explore this we build a **system of differential equation** describing the interactions between healthy phytoplancton, infected phytoplankton and zooplancton : 
 
-$
+$$
 \begin{cases}
 \frac{dP}{dt} = aP - \frac{c}{L}PF - bPZ \\
 \frac{dF}{dt} = \frac{c}{L}PF - \frac{1}{L}F - bFZ \\
 \frac{dZ}{dt} = b(P+F)Z - mZ^2
 \end{cases}
-$
+$$
 
 By analyzing the **equilibria and stability** of the model, we found that zoopkancton grazing significantly reduces the number of infected phytoplankton. This led to fewer infectious cells in the environement. Thus **lowering the infection pressure** on the phytoplankton population.
 
