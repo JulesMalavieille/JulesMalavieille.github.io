@@ -25,7 +25,7 @@ collections:
 
 header_pages:
   - index.md
-  - pages/formation.md
+  - pages/education.md
 
 sass:
   custom: "assets/css/custom.css"
