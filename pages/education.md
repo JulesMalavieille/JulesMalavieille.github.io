@@ -1,11 +1,8 @@
 ---
 layout: single
-title: "Formation"
-permalink: pages/formation/
+title: "Education"
+permalink: pages/education/
 ---
-
--------------------------------------------------------------------
-# Formation 
 
 ## Master's Degree in Biological Oceanography and Marine Ecology
 Specialization : Functions and Dynamics of Ecosystems,
