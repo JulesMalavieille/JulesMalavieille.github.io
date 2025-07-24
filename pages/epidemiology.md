@@ -28,4 +28,5 @@ By analyzing the **equilibria and stability** of the model, we found that zoopka
 In other words, by consuming phytoplankton, zooplankton indirectly helped to limit the spread of phytoplanktonic viral infection. This result highlights the importance of trophic intercations in the control of ecological diseases.
 
 Download the full report : <a href="/assets/files/epidemiological_model.pdf" class="btn btn--primary" target="_blank">📥 Download the full report</a>
-See the code on the Github page of the project : 
+
+See the code on the Github page of the project : <a href="https://github.com/ton-identifiant/nom-du-repo" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
