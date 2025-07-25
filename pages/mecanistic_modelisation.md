@@ -41,9 +41,9 @@ We developed a discrete-time model structured into seven life stages, using a Le
 
 $$
 \begin{cases}
-\N_1(t+1) = \sum(f_kN_k(t)) + N_1(t)(1-v_1-m_1) \\
-\N_{2->6}(t+1) = N_i(t)(1-v_i-m_i)+v_iN_{i-1}(t) \\
-\N_7(t+1) = N_7(t)(1-m_7)+v_6N_6(t)
+N_1(t+1) = \sum(f_kN_k(t)) + N_1(t)(1-v_1-m_1) \\
+N_{2->6}(t+1) = N_i(t)(1-v_i-m_i)+v_iN_{i-1}(t) \\
+N_7(t+1) = N_7(t)(1-m_7)+v_6N_6(t)
 \end{cases}
 $$
 
