@@ -10,7 +10,7 @@ permalink: pages/mecanistic_modelisation/
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-# Epidemiological modelling 
+## Epidemiological modelling 
 
 This work was the first full modelling project I carried out, as the final project of my Bachelor's degree, under the supervision of *Guillaume Legland*, researcher at the Mediterranéean Institute of Oceanology.
 The objective was to understand how **zooplancton grazing** affects the **viral infection dynamics** of phytoplancton population 
