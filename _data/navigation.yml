@@ -1,5 +1,5 @@
 main:
   - title: "Education"
     url: pages/education/
-  - title : "Epidemiolgy model"
-    url: pages/epidemiology/
+  - title : "Mecanistic modelisation"
+    url: pages/mecanistic_modelisation/
