@@ -26,7 +26,7 @@ collections:
 header_pages:
   - index.md
   - pages/education.md
-  - pages/epidemiology.md
+  - pages/mecanistic_modelisation.md
 
 sass:
   custom: "assets/css/custom.css"
