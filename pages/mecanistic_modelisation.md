@@ -49,8 +49,9 @@ $$
 
 Model simulations and sensitivity analysis showed that protecting eggs had minimal impact on overall population dynamics. In contrast, improving the survival rate of large juveniles (pre-adults) had a much greater effect on long-term viability. This life stage suffered high mortality rates due to accidental capture in fishing gear. As a result, the most effective conservation strategy was to reduce bycatch, for instance by using turtle-excluder devices in fishing nets.
 
+Download the full report : <a href="/assets/turtle_project.pdf" class="btn btn--primary" target="_blank">📥 Download the full report</a>
 
-
+See the code on the Github page of the project : <a href="https://github.com/JulesMalavieille/Caretta_caretta_conservation" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
 
 
 
