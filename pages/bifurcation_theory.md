@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Project based on bifurcation theory"
+title: "Projects based on bifurcation theory"
 permalink: pages/bifurcation_theory/
 ---
 
