@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Epidemiological modelling"
-permalink: pages/epidemiology/
+title: "Mecanistic modelisation projects"
+permalink: pages/mecanistic_modelisation/
 ---
 
 <!-- Load MathJax -->
@@ -9,6 +9,8 @@ permalink: pages/epidemiology/
 <script id="MathJax-script" async
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
+
+# Epidemiological modelling 
 
 This work was the first full modelling project I carried out, as the final project of my Bachelor's degree, under the supervision of *Guillaume Legland*, researcher at the Mediterranéean Institute of Oceanology.
 The objective was to understand how **zooplancton grazing** affects the **viral infection dynamics** of phytoplancton population 
