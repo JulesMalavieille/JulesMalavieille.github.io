@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Theory of dynamical system and bifurcations"
+title: "Project based on bifurcation theory"
 permalink: pages/bifurcation_theory/
 ---
 
