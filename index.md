@@ -5,8 +5,8 @@ author_profile: true
 ---
 -------------------------------------------------------------
 <figure class="half">
-  <img src="assets/photo.png" alt="Jules Malavieille" style="width:20%">
-  <figcaption style="font-size: 1.5em; font-weight: bold;">Jules Malavieille</figcaption>
+  <img src="assets/photo.png" alt="Jules Malavieille" style="width:30%">
+  <figcaption style="font-size: 1.3em; font-weight: bold;">Jules Malavieille</figcaption>
 </figure>
 
 I am currently in the final year of a Master’s degree in Biological Oceanography and Marine Ecology at Aix-Marseille University, with a specialization in mathematical modelling and data analysis.
