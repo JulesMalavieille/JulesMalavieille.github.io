@@ -10,10 +10,22 @@ permalink: pages/bifurcation_theory/
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
-## Modelling shift regime and Early Warning Signal
+## Modelling fold bifurcation and Early Warning Signal
 
-This project take place during my first internship with Jean-Christophe Poggiale in summer 2024. The goal was to describe shift regime with a classic model of spruce worm and try to predict it with early warning signals including rising of variance and autocorrelation.
+This project was carried out during my first research internship with Jean-Christophe Poggiale in summer 2024. The goal was to model a regime shift using a classical model of Ips typographus (spruce bark beetle), and to assess the ability of Early Warning Signals (EWS) to detect an upcoming transition.
 
-This model describe the evolution of the spruce worm, *Ibs typographus*. This worm creates holes in epicea and kills them. If the amount of worms is low, the resilience and reproduction of epicea mainain the forest. After a certain threshold of worms, the forest is destroyed extremely fast. This is a regime shift.
+The model describes the outbreak dynamics of the spruce worm, which attacks and kills spruce trees. At low densities, tree resilience and reproduction maintain ecosystem stability. However, beyond a critical threshold, the population explodes, rapidly destroying the forest — a classical regime shift through a fold bifurcation.
 
-In order to modelise this dynamic, we used this model : 
+To capture this dynamic, we used a stochastic differential equation of the form:
+
+$$
+\begin{cases}
+\frac{dN}{dt} = RN(1-\frac{N}{K}) - \frac{AN^2P}{B^2+N^2} + bW
+\end{cases}
+$$
+
+where WtWt​ is a Wiener process and the system is integrated using the Milstein scheme for improved accuracy on the noise term.
+
+To anticipate critical transitions, we tested classic Early Warning Signals such as rising variance and autocorrelation. While these indicators provided some predictive power, they showed a high rate of false positives and were sensitive to time resolution and observation lag.
+
+
