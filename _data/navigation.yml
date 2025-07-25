@@ -3,5 +3,5 @@ main:
     url: pages/education/
   - title : "Mecanistic modelisation"
     url: pages/mecanistic_modelisation/
-  - title : "Dynamic and bifurcation theory"
+  - title : "Bifurcation theory"
     url: pages/bifurcation_theory/
