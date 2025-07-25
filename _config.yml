@@ -27,6 +27,7 @@ header_pages:
   - index.md
   - pages/education.md
   - pages/mecanistic_modelisation.md
+  - pages/bifurcation_theory.md
 
 sass:
   custom: "assets/css/custom.css"
