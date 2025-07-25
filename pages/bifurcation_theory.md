@@ -29,3 +29,6 @@ where WtWt​ is a Wiener process and the system is integrated using the Milstei
 To anticipate critical transitions, we tested classic Early Warning Signals such as rising variance and autocorrelation. While these indicators provided some predictive power, they showed a high rate of false positives and were sensitive to time resolution and observation lag.
 
 
+Download the full report : <a href="/assets/fold_bifurcation.pdf" class="btn btn--primary" target="_blank">📥 Download the full report</a>
+
+See the code on the Github page of the project : <a href="https://github.com/JulesMalavieille/fold_bifurcation_EWS" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
