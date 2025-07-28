@@ -40,8 +40,8 @@ In order to anticipate this bifurcation, we compare two stochastical differentia
 
 $$
 \begin{cases}
-\dX_{noshift} = (-X\mu_0)dt + \sigmadB
-\dX_{shift} = \sqrt{\mu}(\phi-X)dt + \sigma\sqrt{\phi}dB 
+dX_{noshift} = (-X\mu_0)dt + \sigmadB
+dX_{shift} = \sqrt{\mu}(\phi-X)dt + \sigma\sqrt{\phi}dB 
 \end{cases}
 $$
 
