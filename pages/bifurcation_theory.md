@@ -34,18 +34,33 @@ See the code on the Github page of the project : <a href="https://github.com/Jul
 
 ## Hopf bifurcation predicting method
 
-I made this work during a research internship in summer 2025. We adapt the model-based method of Boettiger and Hastings (2012) to predict fold bifurcation for Hopf bifurcation. 
+This work was conducted during a research internship in the summer of 2025. The objective was to adapt the model-based method developed by Boettiger and Hastings (2012), originally designed for fold bifurcations, to detect Hopf bifurcations.
 
-In order to anticipate this bifurcation, we compare two stochastical differential equations : one Olstein-Ulenbeck classic model, which can't shift and a second model based on the first one but modified to be able to shift. 
+The method is based on a likelihood-based comparison between two stochastic differential equations models :
+\begin{itemize}
+    \item A \textbf{null model} (Ornstein-Uhlenbeck process), which captures stationary dynamics without bifurcation.
+    \item A \textbf{test model}, which includes a slowly changing control parameter leading to a Hopf bifurcation.
+\end{itemize}
 
 $$
 \begin{cases}
-dX_{noshift} = (-X\mu_0)dt + \sigma dB\\
-dX_{shift} = \sqrt{\mu}(\phi-X)dt + \sigma\sqrt{\phi}dB\\
+\text{Null model :} & dX = (-X\mu_0)dt + \sigma dB\\
+\text{Test model :} & dX = \sqrt{\mu}(\phi-X)dt + \sigma\sqrt{\phi}dB\\
 \mu = \mu_0 + mt
 \end{cases}
 $$
 
-Then we try to fit the model on data to get the best parameters to simulate the system with the two models. Then we make a big number of simulations and we compare the two models. If in a high number of simulations, the models are significantly different, it means the system is shifting. In the contrary if the two models show a high number of similar dynamics then there is no shift happening. 
+The approach consists of three main steps:
+
+\begin{enumerate}
+    \item \textbf{Parameter estimation}: Fit both models to time-series data using maximum likelihood estimation (MLE).
+    \item \textbf{Simulation-based comparison}: Generate many stochastic trajectories from each fitted model.
+    \item \textbf{Statistical divergence}: Compute a likelihood ratio or a distance metric (e.g., D-statistic) between the two distributions of trajectories.
+\end{enumerate}
+
+If the test model significantly outperforms the null model in reproducing the observed dynamics, this is interpreted as evidence of an \textbf{ongoing shift}, consistent with a Hopf bifurcation. On the contrary, if both models yield similar behavior, the system is considered stable.
+
+Our results demonstrate that this method is capable of anticipating Hopf bifurcations in synthetic datasets. This opens the way to generalizing early-warning frameworks beyond fold-type transitions to more complex bifurcation structures.
+
 
 
