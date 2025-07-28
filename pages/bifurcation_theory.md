@@ -37,10 +37,8 @@ See the code on the Github page of the project : <a href="https://github.com/Jul
 This work was conducted during a research internship in the summer of 2025. The objective was to adapt the model-based method developed by Boettiger and Hastings (2012), originally designed for fold bifurcations, to detect Hopf bifurcations.
 
 The method is based on a likelihood-based comparison between two stochastic differential equations models :
-\begin{itemize}
-    \item A \textbf{null model} (Ornstein-Uhlenbeck process), which captures stationary dynamics without bifurcation.
-    \item A \textbf{test model}, which includes a slowly changing control parameter leading to a Hopf bifurcation.
-\end{itemize}
+  - \textbf{null model} (Ornstein-Uhlenbeck process), which captures stationary dynamics without bifurcation.
+  - \textbf{test model}, which includes a slowly changing control parameter leading to a Hopf bifurcation.
 
 $$
 \begin{cases}
@@ -51,12 +49,9 @@ $$
 $$
 
 The approach consists of three main steps:
-
-\begin{enumerate}
-    \item \textbf{Parameter estimation}: Fit both models to time-series data using maximum likelihood estimation (MLE).
-    \item \textbf{Simulation-based comparison}: Generate many stochastic trajectories from each fitted model.
-    \item \textbf{Statistical divergence}: Compute a likelihood ratio or a distance metric (e.g., D-statistic) between the two distributions of trajectories.
-\end{enumerate}
+  - \textbf{Parameter estimation}: Fit both models to time-series data using maximum likelihood estimation (MLE).
+  - \textbf{Simulation-based comparison}: Generate many stochastic trajectories from each fitted model.
+  - \textbf{Statistical divergence}: Compute a likelihood ratio or a distance metric (e.g., D-statistic) between the two distributions of trajectories.
 
 If the test model significantly outperforms the null model in reproducing the observed dynamics, this is interpreted as evidence of an \textbf{ongoing shift}, consistent with a Hopf bifurcation. On the contrary, if both models yield similar behavior, the system is considered stable.
 
