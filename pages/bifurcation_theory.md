@@ -55,7 +55,7 @@ The approach consists of three main steps:
 
 If the test model significantly outperforms the null model in reproducing the observed dynamics, this is interpreted as evidence of an ongoing shift, consistent with a Hopf bifurcation. On the contrary, if both models yield similar behavior, the system is considered stable.
 
-Our results demonstrate that this method is capable of anticipating Hopf bifurcations in synthetic datasets. This opens the way to generalizing early-warning frameworks beyond fold-type transitions to more complex bifurcation structures.
+Our results demonstrate that this method is capable of anticipating Hopf bifurcations in synthetic datasets. This opens the way to generalizing model-based frameworks beyond fold-type transitions to more complex bifurcation structures.
 
 
 
