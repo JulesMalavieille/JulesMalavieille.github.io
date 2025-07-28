@@ -12,9 +12,9 @@ permalink: pages/mecanistic_modelisation/
 
 ## Conservation strategie for Loggerhead turtle (Caretta caretta)
 
-This project was conducted as part of an advanced modelling course and involved teamwork. The objective was to reproduce and extend the work of Crouse et al. (1987) on the conservation of *Caretta caretta*, the loggerhead sea turtle. At the time, the species was threatened with extinction. The initial conservation plan focused on protecting turtle eggs, but it proved ineffective. The goal of this work was to identify alternative strategies to ensure the survival of the species.
+This project was conducted as part of an advanced modelling course and involved teamwork. The objective was to reproduce and extend the work of Crouse et al. (1987) on the **conservation of *Caretta caretta*, the loggerhead sea turtle**. At the time, the species was threatened with extinction. The initial conservation plan focused on protecting turtle eggs, but it proved ineffective. The goal of this work was to **identify alternative strategies to ensure the survival of the species**.
 
-We developed a discrete-time model structured into seven life stages, using a Leslie matrix and Perron-Frobenius theory to analyse long-term population growth. My main contributions included building the model, performing the analytical resolution for abundance in each stage, and conducting sensitivity analysis of the model to key parameter values.
+We developed a discrete-time model structured into seven life stages, using a Leslie matrix and Perron-Frobenius theory to analyse long-term population growth. My main contributions included **building the model, performing the analytical resolution for abundance in each stage, and conducting sensitivity analysis** of the model to key parameter values.
 
 $$
 \begin{cases}
@@ -24,7 +24,7 @@ N_7(t+1) = N_7(t)(1-m_7)+v_6N_6(t)
 \end{cases}
 $$
 
-Model simulations and sensitivity analysis showed that protecting eggs had minimal impact on overall population dynamics. In contrast, improving the survival rate of large juveniles (pre-adults) had a much greater effect on long-term viability. This life stage suffered high mortality rates due to accidental capture in fishing gear. As a result, the most effective conservation strategy was to reduce bycatch, for instance by using turtle-excluder devices in fishing nets.
+Model simulations and sensitivity analysis showed that protecting eggs had minimal impact on overall population dynamics. In contrast, **improving the survival rate of large juveniles (pre-adults) had a much greater effect on long-term viability**. This life stage suffered high mortality rates due to accidental capture in fishing gear. As a result, the most effective conservation strategy was to reduce bycatch, for instance by using turtle-excluder devices in fishing nets.
 
 Download the full report : <a href="/assets/turtle_project.pdf" class="btn btn--primary" target="_blank">📥 Download the full report</a>
 
@@ -32,8 +32,7 @@ See the code on the Github page of the project : <a href="https://github.com/Jul
 
 ## Epidemiological modelling 
 
-This work was the first full modelling project I carried out, as the final project of my Bachelor's degree, under the supervision of Guillaume Legland, researcher at the Mediterranéean Institute of Oceanology.
-The objective was to understand how **zooplancton grazing** affects the **viral infection dynamics** of phytoplancton population 
+This work was the first full modelling project I carried out, as the final project of my Bachelor's degree. The objective was to understand how **zooplancton grazing** affects the **viral infection dynamics** of phytoplancton population 
 
 To explore this we build a **system of differential equation** describing the interactions between healthy phytoplancton, infected phytoplankton and zooplancton : 
 
