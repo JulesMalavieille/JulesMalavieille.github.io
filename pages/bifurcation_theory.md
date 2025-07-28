@@ -35,6 +35,10 @@ If the **test model significantly outperforms the null model** in reproducing th
 
 Our results demonstrate that **this method is capable of anticipating Hopf bifurcations** in synthetic datasets. This opens the way to generalizing model-based frameworks beyond fold-type transitions to more complex bifurcation structures.
 
+Download the full report : <a href="/assets/Hopf_bifurcation_report.pdf" class="btn btn--primary" target="_blank">📥 Download the full report</a>
+
+See the code on the Github page of the project : <a href="https://github.com/JulesMalavieille/Anticipate-Hopf-bifurcation" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
+
 ## Modelling fold bifurcation and Early Warning Signal
 
 This project was carried out during my first research internship in summer 2024. The goal was to **model a regime shift** using a classical model of *Ips typographus* (spruce bark beetle), and to assess **the ability of Early Warning Signals (EWS) to detect an upcoming transition**.
