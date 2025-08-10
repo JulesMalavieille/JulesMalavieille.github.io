@@ -15,4 +15,6 @@ This site is a portfolio showcasing a selection of academic work and personal pr
 
 My interests span several fields, including chaos and bifurcation theory, stochastical modelling, and machine/deep learning. I enjoy applying rigorous mathematics to real-world problems, building tools, and exploring complex system dynamics. My goal is to design rigorous models that help understand, anticipate and/or reproduce all types of dynamics.
 
+Discover my projects and academic background in the menu above, showcasing applications of mathematical modeling, machine learning / deep learning and data analysis to complex systems. 
+
 
