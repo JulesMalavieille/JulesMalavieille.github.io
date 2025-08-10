@@ -13,4 +13,4 @@ The best results were achieved by XGBoost, closely followed by the random forest
 
 Download the full report : <a href="/assets/projet_MLDL.pdf" class="btn btn--primary" target="_blank">📥 Download the full report</a>
 
-See the code on the Github page of the project : <a href="https://github.com/JulesMalavieille/Anticipate-Hopf-bifurcation" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
+See the code on the Github page of the project : <a href="https://github.com/JulesMalavieille/Phytoplankton-classification" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
