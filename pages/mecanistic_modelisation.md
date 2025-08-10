@@ -10,6 +10,8 @@ permalink: pages/mecanistic_modelisation/
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+Mechanistic modeling is a broad term covering a range of techniques and knowledge used to simulate and understand the dynamics of systems evolving over time. It focuses on describing the underlying mechanisms governing a system’s behavior through equations derived from physical, biological, or chemical principles.
+
 ## Conservation strategie for Loggerhead turtle (Caretta caretta)
 
 This project was conducted as part of an advanced modelling course and involved teamwork. The objective was to reproduce and extend the work of Crouse et al. (1987) on the **conservation of *Caretta caretta*, the loggerhead sea turtle**. At the time, the species was threatened with extinction. The initial conservation plan focused on protecting turtle eggs, but it proved ineffective. The goal of this work was to **identify alternative strategies to ensure the survival of the species**.
