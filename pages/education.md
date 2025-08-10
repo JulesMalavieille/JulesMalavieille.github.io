@@ -41,5 +41,5 @@ Specialization :
   - Biology
   - Physics and Chemistry
 
-Download my CV : <a href="/assets/CV.pdf" class="btn btn--primary" target="_blank">📥 Download the my CV</a>
+Download my CV : <a href="/assets/CV.pdf" class="btn btn--primary" target="_blank">📥 Download my CV</a>
 
