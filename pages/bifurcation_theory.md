@@ -10,6 +10,8 @@ permalink: pages/bifurcation_theory/
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 
+In complex or chaotic systems, describing precisely how a system evolves can be impossible. In such cases, it is often more practical to identify critical thresholds — the conditions under which the system shifts from one state to another. The study of these thresholds is known as bifurcation theory.
+
 ## Hopf bifurcation predicting method
 
 This work was conducted during a research internship in the summer of 2025. The objective was to adapt the model-based method developed by Boettiger and Hastings (2012), originally designed for fold bifurcations, to **detect Hopf bifurcations**.
