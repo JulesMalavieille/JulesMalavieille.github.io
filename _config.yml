@@ -28,8 +28,8 @@ header_pages:
   - pages/education.md
   - pages/mecanistic_modelisation.md
   - pages/bifurcation_theory.md
-  - pages/Adaptative_dynamics.md
   - pages/ML_DL.md
+  - pages/Adaptative_dynamics.md
 
 sass:
   custom: "assets/css/custom.css"
