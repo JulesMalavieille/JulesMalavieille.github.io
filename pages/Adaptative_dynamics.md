@@ -30,3 +30,5 @@ Using this model I show that for a specific range of parameters, specifically wh
   <img src="assets/cycle.png" alt="Cycle" style="width:30%">
   <figcaption style="font-size: 1.3em; font-weight: bold;">Evolutionary cycle</figcaption>
 </figure>
+
+See the code on the Github page of the project : <a href="https://github.com/JulesMalavieille/Anticipate-Hopf-bifurcation" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
