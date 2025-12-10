@@ -1,11 +1,11 @@
 main:
   - title: "Education"
-    url: pages/education/
+    url: /pages/education/
   - title : "Mecanistic modelisation"
-    url: pages/mecanistic_modelisation/
+    url: /pages/mecanistic_modelisation/
   - title : "Bifurcation theory"
-    url: pages/bifurcation_theory/
+    url: /pages/bifurcation_theory/
   - title : "Machine learning / Deep learning"
-    url: pages/ML_DL/  
+    url: /pages/ML_DL/  
   - title : "Adaptative dynamics"
-    url: pages/Adaptative_dynamics/
+    url: /pages/Adaptative_dynamics/
