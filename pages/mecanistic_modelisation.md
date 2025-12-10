@@ -46,7 +46,7 @@ $$
 \end{cases}
 $$
 
-By analyzing the **equilibria and stability** of the model, we found that zoopkancton grazing significantly reduces the number of infected phytoplankton. This led to fewer infectious cells in the environement. Thus **lowering the infection pressure** on the phytoplankton population. this is shown in the following graph. 
+By analyzing the **equilibria and stability** of the model, we found that zoopkancton grazing significantly reduces the number of infected phytoplankton. This led to fewer infectious cells in the environement. Thus **lowering the infection pressure** on the phytoplankton population. This is shown in the following graph. 
 
 <p align="center">
   <img src="/assets/epi.png" width="600px">
