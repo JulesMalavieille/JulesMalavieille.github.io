@@ -5,5 +5,7 @@ main:
     url: pages/mecanistic_modelisation/
   - title : "Bifurcation theory"
     url: pages/bifurcation_theory/
+  - title : "Adaptative dynamics"
+    url: pages/Adaptative_dynamics
   - title : "Machine learning / Deep learning"
     url: pages/ML_DL/  
