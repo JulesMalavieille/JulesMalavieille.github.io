@@ -17,12 +17,12 @@ In this project I studied the mean size of individual in a population. I assume 
 
 $$
 \begin{cases}
-\frac{dN}{dt} = N(r(x) - \alpha(0)N - \alpha(x-x')N' - \frac{\beta P(N+N')}{c^2*(N+N')^2})\\        
-\frac{dN'}{dt} = N'(r(x') - \alpha(0)N' - \alpha(x'-x)N - \frac{\beta P(N+N')}{c^2*(N+N')^2})
+\frac{dN}{dt} = N(r(x) - \alpha(0)N - \alpha(x-x')N' - \frac{\beta P(N+N')}{c^2(N+N')^2})\\        
+\frac{dN'}{dt} = N'(r(x') - \alpha(0)N' - \alpha(x'-x)N - \frac{\beta P(N+N')}{c^2(N+N')^2})
 \end{cases}
 $$
 
-Using this model I show that for a specific range of parameters, specifically when competition is "strong" then the mean size of the population is not stable, it fluctuates in regular patern as shown in the following graph :
+Using this model I show that for a specific range of parameters, specifically when competition is "strong", the mean size of the population is not stable. It fluctuates in regular periodic patern as shown in the following graph :
 
 <figure class="half">
   <img src="assets/cycle.png" alt="Cycle" style="width:30%">
