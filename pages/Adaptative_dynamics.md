@@ -27,7 +27,7 @@ $$
 Using this model I show that for a specific range of parameters, specifically when competition is "strong", the mean size of the population is not stable. It fluctuates in regular periodic patern as shown in the following graph. This dynamic can explain a variablility in mean size over time of a population even when environemental conditons don't change. But only if the hypothesis assume ton build this model are verified. 
 
 <figure class="half">
-  <img src="assets/cycle.png" alt="Cycle" style="width:30%">
+  <img src="main/assets/cycle.png" alt="Cycle" style="width:30%">
   <figcaption style="font-size: 1.3em; font-weight: bold;">Evolutionary cycle</figcaption>
 </figure>
 
