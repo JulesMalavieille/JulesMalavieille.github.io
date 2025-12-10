@@ -63,7 +63,6 @@ where W​ is a Wiener process and the system is integrated using the **Milstein
   <img src="/assets/bifurcation.png" width="600px">
 </p>
 
-
 To anticipate critical transitions, we tested classic Early Warning Signals such as **rising variance and autocorrelation**. While these indicators provided some predictive power, they showed a high rate of false positives and were sensitive to time resolution and observation lag.
 
 Download the full report : <a href="/assets/fold_bifurcation.pdf" class="btn btn--primary" target="_blank">📥 Download the full report</a>
