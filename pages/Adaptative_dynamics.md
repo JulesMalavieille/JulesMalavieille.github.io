@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Adaptative dynamics projects"
-permalink: pages/Adaptatve_dynamics.md/
+permalink: pages/Adaptative_dynamics/
 ---
 
 <!-- Load MathJax -->
