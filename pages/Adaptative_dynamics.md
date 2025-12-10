@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Adaptative dynamics projects"
-permalink: pages/bifurcation_theory/
+permalink: pages/Adaptatve_dynamics.md/
 ---
 
 <!-- Load MathJax -->
