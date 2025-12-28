@@ -11,6 +11,11 @@ We implemented and compared four models: logistic regression, random forest, XGB
 
 The best results were achieved by XGBoost, closely followed by the random forest. The MLP also performed well despite the small dataset, but did not surpass the ensemble methods. Logistic regression achieved the lowest accuracy, as expected given its linear nature.
 
+Download the full report : <a href="/assets/projet_ML_DL.pdf" class="btn btn--primary" target="_blank">📥 Download the full report</a>
+
+See the code on the Github page of the project : <a href="https://github.com/JulesMalavieille/Phytoplankton-classification" class="btn btn--primary" target="_blank">🔗 View Project on GitHub</a> 
+
+
 ## Species occurrence modeling
 
 This self-initiated project aimed to develop and validate a machine learning pipeline for predicting marine species occurrence from environmental data, with a particular focus on methodological rigor and ecological consistency. A key challenge addressed in this work was the absence problem inherent to presence-only datasets, which required the careful generation of pseudo-absence data based on ecological niche assumptions.
